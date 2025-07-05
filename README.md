@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raja-programming&label=Profile%20views&color=0e75b6&style=flat" alt="raja-programming" /> </p>
 
-- 📫 How to reach me **rajacs401@gmail.com, 8524863327**
+- 📫 How to reach me **rajacs401@gmail.com**, **8524863327**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
